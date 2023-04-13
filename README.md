@@ -1,4 +1,4 @@
-## Challenge One Sprint 01
+## Challenge One Sprint 01 📕
 
 Nesse primeiro Challenge proposto pela Alura, fomos desafiados a construir um decodificador de texto utilizando HTML, CSS3 e JavaScript. O mesmo se encontra em <a href="https://lucasmoura96.github.io/challenge-one-sprint1/">deploy</a>.
 
@@ -32,4 +32,10 @@ Resultado:
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/128440501/231807578-1ac29a93-dc29-4e18-a4e0-87726a81e3b6.PNG" width="700" />
+</div>
+
+## Badge de conclusão ⭐
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/128440501/231812700-bee46187-4355-463c-a32b-8c37cf9200ec.png" width="300" />
 </div>
