@@ -1,6 +1,7 @@
 ## Challenge One Sprint 01
 
-Nesse primeiro Challenge proposto pela Alura, fomos desafiados a construir um decodificador de texto utilizando HTML, CSS3 e JavaScript. 
+Nesse primeiro Challenge proposto pela Alura, fomos desafiados a construir um decodificador de texto utilizando HTML, CSS3 e JavaScript. O mesmo se encontra em <a href="https://lucasmoura96.github.io/challenge-one-sprint1/">deploy</a>.
+
 Deste modo, o usuário entra com uma palavra/texto que gostaria de criptografar e o programa retorna utilizando a seguinte regra:
 
 <ul>
